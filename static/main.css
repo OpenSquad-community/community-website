@@ -59,27 +59,6 @@ body{
 }
 
 
-/* Beyond my understanding*/
-/* 
-#wrapper[data-active-index="0"] > #wrapper-background-pattern{
-    background-position: 0% -25%;
-}
-
-
-#wrapper[data-active-index="1"] > #wrapper-background-pattern{
-    background-position: 0% -50%;
-}
-
-
-#wrapper[data-active-index="2"] > #wrapper-background-pattern{
-    background-position: 0% -75%;
-}
-
-
-#wrapper[data-active-index="3"] > #wrapper-background-pattern{
-    background-position: 0% -100%;
-} */
-
 #wrapper-background-image {
     height: 100%;
     width: 100%;
